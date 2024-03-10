@@ -11,8 +11,8 @@ Welcome to the Detection Models repository, where we leverage the power of YOLO 
 
 We have deployed our models to make them easily accessible for inference. Follow the links below for detailed instructions on how to use each model:
 
-- [Face Mask Detector](https://universe.roboflow.com/wce-cmtzh/face_mask_detector-fhj36/model/3) - _Link to deployed model and instructions_
-- [Fire Detector](https://universe.roboflow.com/vision-zz6rk/fire_detector-g4lir/model/2) - _Link to deployed model and instructions_
+- [Face Mask Detector](https://universe.roboflow.com/wce-cmtzh/face_mask_detector-fhj36/model/3) - Link to deployed model!
+- [Fire Detector](https://universe.roboflow.com/vision-zz6rk/fire_detector-g4lir/model/2) - Link to deployed model!
 
 ## Getting Started
 
