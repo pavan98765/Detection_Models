@@ -9,7 +9,7 @@ Welcome to the Detection Models repository, where we leverage the power of YOLO 
 
 ## Using the Deployed Models
 
-We have deployed our models to make them easily accessible for inference. Follow the links below for detailed instructions on how to use each model:
+We have deployed our models to make them easily accessible for inference. Follow the links below and test the model out by just uploading an image:
 
 - [Face Mask Detector](https://universe.roboflow.com/wce-cmtzh/face_mask_detector-fhj36/model/3) - Link to deployed model!
 - [Fire Detector](https://universe.roboflow.com/vision-zz6rk/fire_detector-g4lir/model/2) - Link to deployed model!
@@ -18,7 +18,16 @@ We have deployed our models to make them easily accessible for inference. Follow
 
 To get started with our models, please follow the instructions below. We have deployed our models for easy access and inference.
 
+### other models trained:
+
+- face awake or sleep detector
+- leaf disease detector
+- pathole detector
+- number plate detector
+- polyp detector
+- tennis detector
+- vehicle detector
+
 ### Prerequisites
 
 - Python 3.6+
-- Dependencies: See `requirements.txt` for a full list of required Python libraries.
