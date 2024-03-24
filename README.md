@@ -11,8 +11,11 @@ Welcome to the Detection Models repository, where we leverage the power of YOLO 
 
 We have deployed our models to make them easily accessible for inference. Follow the links below and test the model out by just uploading an image:
 
-- [Face Mask Detector](https://universe.roboflow.com/wce-cmtzh/face_mask_detector-fhj36/model/3) - Link to deployed model!
 - [Fire Detector](https://universe.roboflow.com/vision-zz6rk/fire_detector-g4lir/model/2) - Link to deployed model!
+
+- [Polyp Segmentation](https://universe.roboflow.com/pavan-cs-q3hq0/polpy-twuhz/model/4) - Link to deployed model!
+
+- [Face Mask Detector](https://universe.roboflow.com/wce-cmtzh/face_mask_detector-fhj36/model/3) - Link to deployed model!
 
 ## Getting Started
 
