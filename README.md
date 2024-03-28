@@ -41,16 +41,40 @@ We have deployed our models to make them easily accessible for inference. Please
 
 To get started with our models, please follow the instructions below. We have deployed our models for easy access and inference.
 
-### other models trained:
+### Requirements
 
-- face awake or sleep detector
-- leaf disease detector
-- pathole detector
-- number plate detector
-- polyp detector
-- tennis detector
-- vehicle detector
+- Python 3.6 or later
+- PyTorch (The installation command below will install it if not already installed)
+- Ultralytics
 
-### Prerequisites
+### Pip Install Method (Recommended)
 
-- Python 3.6+
+To install the necessary packages, run the following command in your Python environment:
+
+```bash
+pip install torch ultralytics==8.0.196
+```
+
+## Getting Started
+
+Quick start for training and testing:
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LivJRxLtOFb4fsJ7NAvJtoAVaEuVw8dM?usp=sharing)
+
+To get started with testing the detection models, follow the steps below:
+
+1. **Clone the Repository:**
+
+```bash
+git clone https://github.com/pavan98765/Detection_Models.git
+```
+
+2. Open [Testing_and_evaluation.ipynb](Code/Testing_and_evaluation.ipynb) notebook to test the model on images, visulaize them and to realtime predictions through webcam!
+
+3. Please open the [training_notebook.ipynb](Code/Training.py) to download the dataset from roboflow and start training the Model. You can choose different sizes(variations) of the model like nano,small, medium, large and xl. After the training is done you can evaluate and predict with the model.
+
+## Contributing
+
+We welcome contributions to the Detection project! Whether it's through improving the model's accuracy,or expanding the dataset, your help is invaluable. If you encounter any problems or have suggestions, please feel free to open an issue or submit a pull request.
+
+Thank you for your interest in our project.
