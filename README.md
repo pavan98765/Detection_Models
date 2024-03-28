@@ -4,7 +4,12 @@ Welcome to the Detection Models repository, where we leverage the power of YOLO 
 
 ## Some Results:
 
-![](results/fire_detection.gif)
+![img](results/fire_detection.gif)
+![img](results/Img_1871_jpg.rf.df44efd28f4554e0336d85ed0b128c58.jpg)
+![img](results/facemask2.png)
+![img](results/facemask3.png)
+![img](results/polyp1.png)
+![img](results/polyp3.png)
 
 ## Models Overview
 
